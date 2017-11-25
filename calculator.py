@@ -1,6 +1,6 @@
-
+#this function add two numbers
 def add(x,y):
-    pass
+   return (x+y)
 
 def substruction(x,y):
     return x - y
