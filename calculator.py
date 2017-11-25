@@ -1,6 +1,6 @@
 
 def add(x,y):
-    pass
+   return (x+y)
 
 def substruction(x,y):
     pass
